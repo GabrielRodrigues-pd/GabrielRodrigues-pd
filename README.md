@@ -35,5 +35,5 @@ Personal portfolio developed with modern frontend practices.
 
 ## 📬 Contact
 
-LinkedIn: https://www.linkedin.com/in/gabriel-rodrigues
+LinkedIn: [https://www.linkedin.com/in/gabriel-rodrigues](https://www.linkedin.com/in/gabriel-rodrigues-873075236/)
 Email: gabriel.r.suporte@gmail.com
