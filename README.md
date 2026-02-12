@@ -1,16 +1,39 @@
-## Hi there 👋
+# Gabriel Rodrigues
 
-<!--
-**GabrielRodrigues-pd/GabrielRodrigues-pd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on JavaScript ecosystem.
 
-Here are some ideas to get you started:
+I build web applications using Node.js, React and modern backend architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- JavaScript (ES6+)
+- Node.js
+- Express
+- React / Next.js
+- MongoDB
+- SQL
+- Git & GitHub
+- REST APIs
+- JWT Authentication
+
+## 📂 Featured Projects
+
+🔹 RockNotes API  
+REST API built with Node.js and Express with JWT authentication and MongoDB integration.
+
+🔹 NodeMovies  
+Backend service for movie management with CRUD operations and structured routes.
+
+🔹 Portfolio  
+Personal portfolio developed with modern frontend practices.
+
+## 📈 Currently
+
+- Improving backend architecture skills
+- Studying scalability and clean code
+- Building real-world projects
+
+## 📬 Contact
+
+LinkedIn: https://www.linkedin.com/in/gabriel-rodrigues
+Email: seuemail@email.com
